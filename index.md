@@ -85,6 +85,7 @@
     SvExEvalCurveNode
 
 ## Surfaces
+<<<<<<< HEAD
     SvExPlaneSurfaceNode
     SvExSphereNode
     SvExSurfaceFormulaNode
@@ -106,6 +107,7 @@
     SvSurfaceNormalsNode
     SvSurfaceGaussCurvatureNode
     SvSurfaceCurvaturesNode
+     SvSurfaceCurvatureLinesNode
     ---
     SvExTessellateTrimSurfaceNode
     SvAdaptiveTessellateNode
